@@ -60,6 +60,5 @@ I am a results-driven Data Analyst focused on translating complex user behaviors
 
 ## 📫 Connect with Me
 
-*   💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) *(Update this link!)*
-*   📧 **Email:** [your.email@email.com](mailto:your.email@email.com) *(Update this link!)*
-*   📊 **Tableau Public:** [public.tableau.com/profile/your-profile](https://public.tableau.com/profile/your-profile) *(Optional)*
+*   💼 **LinkedIn:** www.linkedin.com/in/syed-israr-hussain-7153a0353
+*   📧 **Email:** isyed5608@gmail.com
